@@ -11,9 +11,12 @@
     });
   };
 
-  $('#contactLink').click(function() {
-    app.replaceWithPartial('#mainContent', 'contact.html');
-  });
+  $(document).ready(function() {
+    $('#contactLink').click(function() {
+  	  console.log('contact link clicked.');
+      app.replaceWithPartial('#mainContent', 'contact.html');
+    });
 
+  });
 	
 })(jQuery);
