@@ -7,8 +7,8 @@
 	  url: partialPageUrl,
 	  done: function(html) {
         $elem.replaceWith(html);
-	  });
-  }
+    });
+  };
 
   $('#contactLink').click(function() {
     app.replaceWithPartial('#mainContent', 'contact.html');
