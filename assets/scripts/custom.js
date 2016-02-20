@@ -3,12 +3,9 @@
 
   app.replaceWithPartial = function(selector, partialPageUrl) {
   	var $elem = $(selector);
-  	$.get({ 
-	  url: partialPageUrl,
-	  done: function(html) {
+  	$.get(partialPageUrl).done(function(html) {
 	    console.log('partial retrieved.');
         $elem.replaceWith(html);
-      }
     });
   };
 
