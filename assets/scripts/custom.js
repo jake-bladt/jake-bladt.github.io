@@ -7,6 +7,7 @@
 	  url: partialPageUrl,
 	  done: function(html) {
         $elem.replaceWith(html);
+      }
     });
   };
 
