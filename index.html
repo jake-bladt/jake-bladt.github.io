@@ -7,10 +7,11 @@
     <meta name="description" content="A capstone for exploring Jake Bladt's publicly-available code">
     <meta name="author" content="Jake Bladt">
     <title>Jake's Home on GitHub</title>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/custom.css" rel="stylesheet">
+    <link href="assets/styles/custom.css" rel="stylesheet">
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
+    <script src=" assets/scripts/custom.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -31,42 +32,15 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li class="active"><a href="#" id="homeLink">Home</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#contact" id="contactLink">Contact</a></li>
           </ul>
-        </div><!--/.nav-collapse -->
+        </div>
       </div>
     </nav>
 
-    <div class="container">
-
-      <div class="announcement">
-        <h1>This is my home on Github</h1>
-        <p>Eventually, it will be a capstone to put on my resume for one-stop viewing of my
-        publicly-available code samples. For now, it's just a playground for mucking about with
-        various web-based technologies.</p>
-
-        <p>Sometimes, it's completely broken. Today it's not.</p>
-      </div>
-
-      <div>
-        <h2>Code I've written</h2>
-        <ul>
-          <li><a href="https://github.com/jake-bladt/t3">T3</a> - a Tic Tac Toe game using JavaScript, jQuery, and HTML 5 Canvas</li>
-          <li><a href="https://github.com/jake-bladt/sinatra-blackjack">Sinatra Blackjack</a> - a single-page blackjack game written with server-side Ruby/Sinatra and jQuery on the front end</li>
-          <li><a href="https://github.com/jake-bladt/ReplMvc">REPL MVC</a> - a framework for writing REPL applications using a model-view-controller design pattern, written in C#</li>
-        </ul>
-      </div>
-
-      <div>
-        <h2>Code I'm working on in 2016</h2>
-        <ul>
-          <li><a href="https://github.com/jake-bladt/walker">walker</a> - a full-stack JavaScript application for tracking walking as exercise, will probably use the MEAN stack.</li>
-          <li><a href="https://github.com/jake-bladt/valuation-engine">valuation-engine</a> - originally conceived as a piece of a fantasy sports drafting application, valuation-engine is a platform for calculating comparative values of a given set of entities given a ruleset. Written in C#.</li>
-          <li><a href="https://github.com/jake-bladt/twentyfive">twenty-five</a> - compiler-building exercises, including a DSL compiler for an algabraic puzzle game</li>
-        </ul>
-      </div>
+    <div class="container" id="mainContent">
     </div>
   </body>
 </html>
