@@ -12,6 +12,8 @@
   };
 
   $(document).ready(function() {
+    app.replaceWithPartial('#mainContent', 'home.html');
+
     $('#contactLink').click(function() {
       app.replaceWithPartial('#mainContent', 'contact.html');
     });
