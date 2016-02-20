@@ -6,6 +6,7 @@
   	$.get({ 
 	  url: partialPageUrl,
 	  done: function(html) {
+	    console.log('partial retrieved.');
         $elem.replaceWith(html);
       }
     });
@@ -13,7 +14,6 @@
 
   $(document).ready(function() {
     $('#contactLink').click(function() {
-  	  console.log('contact link clicked.');
       app.replaceWithPartial('#mainContent', 'contact.html');
     });
 
