@@ -1,5 +1,11 @@
 # Fifteen-minute stand-ups
 
+## 22-October-2016
+
+I started a review of my Github repos this morning, starting with the ones that haven't been touched in the last three years (when I first opened this account.) There are a few projects in there that date back almost ten years. The code has held up remarkably well in some places (and proven painfully naive in others.) 
+
+
+
 ## 21-October-2016
 
 I started out tonight reading about Apache Zookeeper because I'm thinking about a number of projects that involve creating a "distributed platform for X." Whatever X turns out to be, I'll need to pick a platform to develop it on. My first thought (and possibly the one I'll ultimately go with) was Apache Storm. But, I wanted to at least explore a closer-to-the-metal deployment on Zookeeper.
