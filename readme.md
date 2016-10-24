@@ -1,5 +1,28 @@
 # Fifteen-minute stand-ups
 
+## 23-October-2016
+
+Only a short coding session today. In order to move forward on the agency project I'm using to teach myself more node/express, I need to have copies of all the kitten pictures I brought down yesterday that are appropriately sized for the profile page and for thumbnails on the gallery page.
+
+I could do this manually, but part of how I learn best is treating my learning projects as if they were real deliverables for a real client. In this case, my inner client was telling me that manually resizing the pictures that come in won't scale. I need to automate the process.
+
+I'm sure there's a way to do this in node, but a review of available tools suggests that the easiest method would be to use Python and PIL where this kind of issue is frequently-covered ground.
+
+That's all well and good except that PIL doesn't support Python 3 yet and I haven't touched Python 2. Fortunately, there's a fork of PIL called Pillow which *does* support Python 3.
+
+I copied over the Vagrant build-out I use for my python sandbox, added the installation code for Pillow, vagranted up and...
+
+...the provisioning failed.
+
+Shit.
+
+I poked the configuration files with various-sized sticks, but I couldn't jury-rig an easy solution. It's back to the drawing board tomorrow, either rebuilding a Python 3 / Pillow environment from the ground up or trying it in node. Most of what's open on my desktop is about those two options.
+
+- [GraphicsMagick for nodeJs](http://aheckmann.github.io/gm/)
+- [sharp image processing for nodeJs](https://github.com/lovell/sharp)
+- [installing pip3 (for python3) on ubuntu 16.04 LTS using a proxy](http://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy)
+- [Open Water](https://publiclab.org/wiki/open-water) - open source hardware and software in hydroinformatics
+
 ## 22-October-2016
 
 I started a review of my Github repos this morning, starting with the ones that haven't been touched in the last three years (when I first opened this account.) There are a few projects in there that date back almost ten years. The code has held up remarkably well in some places (and proven painfully naive in others.)
