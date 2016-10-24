@@ -53,3 +53,22 @@ table {
   border-spacing: 0;
 }
 
+h1 {
+  font-size: 48px;
+  margin: 25 px;
+}
+
+h2 {
+  font-size: 30px;
+  margin: 45px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 60px;
+}
+
+p {
+  font-size: 11px;
+  margin-left: 25px;
+}
