@@ -1,5 +1,23 @@
 # Fifteen-minute stand-ups
 
+## 24-October-2016
+
+Some days, I just don't want to be a software developer. Today was one of those days. The interview process is becoming wearying. Winter is coming. Everything I'm working on is stalled. If I hadn't made a commitment to get back into the habit of coding every day as if I had a full-time job, I would have been happy to come home from my mid-afternoon interview today, play a few browser games, and go to sleep.
+
+Taking a page from another domain, I decided to promise myself I would get ten commits before I called it quits today. My commits are fairly atomic, so ten don't represent a lot of work. But, ten of them are enough to have at least gotten into coding something. And they give me a chance to get some enthusiasm flowing for more.
+
+Today, it was just 10.
+
+My focus was on trying to do the resizer tool in node with sharp. I got as far as setting up the VM, initializing for npm, and installing sharp - trying to install sharp. It turns out that there's a bug with npm when it's used in a hosted environment like Vagrant. There's a fix, but I'm not up to pursuing it tonight.
+
+Plenty of open threads for tomorrow:
+
+- [EPROTO: protocol error, symlink '../user-home/cli.js'](https://github.com/npm/npm/issues/9901)
+- [sharp](https://github.com/lovell/sharp)
+- [sharp API documentation](http://sharp.readthedocs.io/en/stable/api/#resizing)
+- [CISCO's CSR Partner - Water for People](http://csr.cisco.com/casestudy/water-for-people)
+- [Unit testing C code](http://stackoverflow.com/questions/65820/unit-testing-c-code)
+
 ## 23-October-2016
 
 Only a short coding session today. In order to move forward on the agency project I'm using to teach myself more node/express, I need to have copies of all the kitten pictures I brought down yesterday that are appropriately sized for the profile page and for thumbnails on the gallery page.
