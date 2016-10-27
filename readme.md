@@ -1,6 +1,17 @@
 # Fifteen-minute stand-ups
 
-## 24-October-2016
+## 26-October-2016
+
+Most of my productive time today was spent in mentor mode, which is probably just as well because I'm having a lot of trouble getting traction on the npm-under-vagrant problem and may have just banged my head against a wall for hours.
+
+For my own work, I followed the recommendations on [NPM issue 9901]((https://github.com/npm/npm/issues/9901)) to try to resolve my problem. I installed the newest version of Oracle VM Virtual Box, then tried running my vagrant file against it. Vagrant promptly *downgraded* my VirtualBox to one it recognized. When my npm intall still refused to work, I installed the latest version of Vagrant and *reinstalled* the latest version of VirtualBox. There was still no love, even after trying various combinations of ```npm install --save --no-bin-links sharp```. I either need to dig deeper on this problem or go back to trying to do it in Python3/Pillow or Python2/PIL. But, that's for another day.
+
+Short list of open tabs today:
+
+- [Install nodejs sharp on Azure 32-bit](http://stackoverflow.com/questions/39110318/install-nodejs-sharp-on-azure-32bit)
+- [npm install sharp](http://sharp.dimens.io/en/stable/install/)
+
+## 25-October-2016
 
 Some days, I just don't want to be a software developer. Today was one of those days. The interview process is becoming wearying. Winter is coming. Everything I'm working on is stalled. If I hadn't made a commitment to get back into the habit of coding every day as if I had a full-time job, I would have been happy to come home from my mid-afternoon interview today, play a few browser games, and go to sleep.
 
@@ -18,7 +29,7 @@ Plenty of open threads for tomorrow:
 - [CISCO's CSR Partner - Water for People](http://csr.cisco.com/casestudy/water-for-people)
 - [Unit testing C code](http://stackoverflow.com/questions/65820/unit-testing-c-code)
 
-## 23-October-2016
+## 24-October-2016
 
 Only a short coding session today. In order to move forward on the agency project I'm using to teach myself more node/express, I need to have copies of all the kitten pictures I brought down yesterday that are appropriately sized for the profile page and for thumbnails on the gallery page.
 
@@ -41,7 +52,7 @@ I poked the configuration files with various-sized sticks, but I couldn't jury-r
 - [installing pip3 (for python3) on ubuntu 16.04 LTS using a proxy](http://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy)
 - [Open Water](https://publiclab.org/wiki/open-water) - open source hardware and software in hydroinformatics
 
-## 22-October-2016
+## 23-October-2016
 
 I started a review of my Github repos this morning, starting with the ones that haven't been touched in the last three years (when I first opened this account.) There are a few projects in there that date back almost ten years. The code has held up remarkably well in some places (and proven painfully naive in others.)
 
@@ -65,7 +76,7 @@ When I called it a night, I had the following articles open:
 
 As for yesterday's open threads, I've tabled any plans for using Jekyll. It's just too much of a build chain for a site/blog I wouldn't be updating very often. I'm going to tackle the unholy marriage between Ubuntu-XWindows and Windows-RDS again soon, but I'm letting it simmer in my brain for now.
 
-## 21-October-2016
+## 22-October-2016
 
 I started out tonight reading about Apache Zookeeper because I'm thinking about a number of projects that involve creating a "distributed platform for X." Whatever X turns out to be, I'll need to pick a platform to develop it on. My first thought (and possibly the one I'll ultimately go with) was Apache Storm. But, I wanted to at least explore a closer-to-the-metal deployment on Zookeeper.
 
