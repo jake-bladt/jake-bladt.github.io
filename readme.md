@@ -1,5 +1,17 @@
 # Fifteen-minute stand-ups
 
+## 28-October-2016
+
+I decided to put aside the image resizing utility aside at least for a while. Both the python and the node solution had problems and the resizing isn't even the core feature. I will have to fix the npm-under-vagrant problem before I can get very far with nodeJs.
+
+In the meantime, I decided to go back to fractal-shoreline - a crucial piece of the worldbuilder project and a neat bit of mathy code for my portfolio. It felt good to just code for a while.
+
+At the end of day, I had the following relevant browser tabs open:
+
+- [Radians](https://www.mathsisfun.com/geometry/radians.html)
+- [Convert angle (radians) to a heading vector?](http://math.stackexchange.com/questions/180874/convert-angle-radians-to-a-heading-vector)
+- [Point-Slope Equation of a Line](http://math.stackexchange.com/questions/180874/convert-angle-radians-to-a-heading-vector)
+
 ## 26-October-2016
 
 Most of my productive time today was spent in mentor mode, which is probably just as well because I'm having a lot of trouble getting traction on the npm-under-vagrant problem and may have just banged my head against a wall for hours.
