@@ -1,5 +1,11 @@
 # Fifteen-minute stand-ups
 
+## 31-October-2016
+
+I may be reinventing the wheel with part of the fractal shoreline project.
+
+I thought I remembered a method for representing directions by radians off of true, counterclockwise. (ie North = 0, West = &pi; / 2.) But, I'm starting to doubt my own memory.
+
 ## 28-October-2016
 
 I decided to put aside the image resizing utility aside at least for a while. Both the python and the node solution had problems and the resizing isn't even the core feature. I will have to fix the npm-under-vagrant problem before I can get very far with nodeJs.
