@@ -4,6 +4,8 @@
 
 I may be reinventing the wheel with part of the fractal shoreline project.
 
+- [Making a Choropleth Map Directive Using D3.js and Angular.js](http://blog.workshape.io/making-a-spherical-globe-using-d3js/)
+
 **AM Observation**: I thought I remembered a method for representing directions by radians off of true, counterclockwise. (ie North = 0, West = &pi; / 2.) But, I'm starting to doubt my own memory.
 
 ## 28-October-2016
