@@ -1,5 +1,28 @@
 # Fifteen-minute stand-ups
 
+## 31-October-2016
+
+Since I've started looking more seriously for a new job, I decided regretfully not to participate in [NaNoWriMo](http://nanowrimo.org/) this year, but instead to focus on more programming-related activities.
+
+But, in honor of NaNoWriMo, I've decided to parallel their structure. I'm going to start [WorldBuilder](https://github.com/jake-bladt/worldbuilder) tomorrow and see just how far I can get on a web app in a single month. As much as possible, all of my coding in November will be in support of this project.
+
+It's an ambitious project for sure. At first blush, I'm going to have to pick up enough D3.js and TopoJSON to show a spinning globe plus refresh a metric boatload of math I haven't used since college *and* learn enough cartography to make sense of the jargon used in the documentation. Node is involved too.
+
+Still, I do like a challenge.
+
+I spent some time on the fractal shoreline project today because it's integral to WorldBuilder, but most of my work went into gathering and reviewing source material for the big project. These links were open when I called it a night:
+
+- [Making Maps Using D3 and TopoJSON](https://bost.ocks.org/mike/map/)
+- [Open Source Geo](http://www.osgeo.org/)
+- [Making a Choropleth Map Directive Using D3.js and Angular.js](http://blog.workshape.io/making-a-spherical-globe-using-d3js/)
+- [Training from the Harvard Center for Geographic Analysis](http://gis.harvard.edu/training)
+- [Harvard CGA YouTube Channel](https://www.youtube.com/user/HarvardCGA/videos)
+- [SVG Basic Shapes and D3.js](https://www.dashingd3js.com/svg-basic-shapes-and-d3js)
+- [adding math symbols in github flavoured markdown](https://github.com/aimacode/aima-pseudocode/issues/14)
+- [Install Linux on an HTC One](https://www.linux.com/answers/how-can-i-install-linux-my-htc-one)
+
+**End Note:** Developers who want to work with FOSS tools on a Windows machine are losing a great resource when (Nitrous.io closes at the end of November)[https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th].
+
 ## 28-October-2016
 
 I decided to put aside the image resizing utility aside at least for a while. Both the python and the node solution had problems and the resizing isn't even the core feature. I will have to fix the npm-under-vagrant problem before I can get very far with nodeJs.
