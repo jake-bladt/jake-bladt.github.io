@@ -1,5 +1,22 @@
 # Fifteen-minute stand-ups
 
+## 1-November-2016
+
+In order to keep the WorldBuilder project more tightly focused than I've been, I'm trying a new system for one-person teams to manage the development process. Call it the "rolling three." In this case, I'm picking three tasks:
+
+- Complete the [fractal shoreline](https://github.com/jake-bladt/fractal-shoreline) project, focusing on the code to calculate a fractal shoreline and the specific problem of determining if an ordered set of cartesian points make up a continuous shape.
+- Review [Making Maps Using D3 and TopoJSON](https://bost.ocks.org/mike/map/), following the secondary links and code examples.
+- Review [Making a Choropleth Map Directive Using D3.js and Angular.js](http://blog.workshape.io/making-a-spherical-globe-using-d3js/), following the secondary links and code examples.
+
+In addition to picking tasks, I'm making the following "policies":
+
+- The three tasks above are "on-point stories." They count the most.
+- Other stories addressing technologies and subjects directly relevant to the WorldBuilder project are "prep work." They count less.
+- Work on projects unrelated to WorldBuilder are "play." They don't count.
+- When an on-point task is completed, a new task can be assigned as "on-point" so that the developer always has three.
+- Further gamification of "Rolling Threes" is definitely not "on point."
+
+
 ## 31-October-2016
 
 Since I've started looking more seriously for a new job, I decided regretfully not to participate in [NaNoWriMo](http://nanowrimo.org/) this year, but instead to focus on more programming-related activities.
