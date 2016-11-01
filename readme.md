@@ -2,11 +2,17 @@
 
 ## 31-October-2016
 
-I may be reinventing the wheel with part of the fractal shoreline project.
+**AM Observation**: I may be reinventing the wheel with part of the fractal shoreline project.
+
+I thought I remembered a method for representing directions by radians off of true, counterclockwise. (ie North = 0, West = &pi; / 2.) But, I'm starting to doubt my own memory.
+
+Developers who want to work with FOSS tools on a Windows machine are losing a great resource when (Nitrous.io closes at the end of November)[https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th].
 
 - [Making a Choropleth Map Directive Using D3.js and Angular.js](http://blog.workshape.io/making-a-spherical-globe-using-d3js/)
-
-**AM Observation**: I thought I remembered a method for representing directions by radians off of true, counterclockwise. (ie North = 0, West = &pi; / 2.) But, I'm starting to doubt my own memory.
+- [Training from the Harvard Center for Geographic Analysis](http://gis.harvard.edu/training)
+- [Harvard CGA YouTube Channel](https://www.youtube.com/user/HarvardCGA/videos)
+- [SVG Basic Shapes and D3.js](https://www.dashingd3js.com/svg-basic-shapes-and-d3js)
+- [adding math symbols in github flavoured markdown](https://github.com/aimacode/aima-pseudocode/issues/14)
 
 ## 28-October-2016
 
