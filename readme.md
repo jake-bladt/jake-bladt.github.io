@@ -15,6 +15,7 @@ Developers who want to work with FOSS tools on a Windows machine are losing a gr
 - [Harvard CGA YouTube Channel](https://www.youtube.com/user/HarvardCGA/videos)
 - [SVG Basic Shapes and D3.js](https://www.dashingd3js.com/svg-basic-shapes-and-d3js)
 - [adding math symbols in github flavoured markdown](https://github.com/aimacode/aima-pseudocode/issues/14)
+- [Install Linux on an HTC One](https://www.linux.com/answers/how-can-i-install-linux-my-htc-one)
 
 ## 28-October-2016
 
