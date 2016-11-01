@@ -2,11 +2,15 @@
 
 ## 31-October-2016
 
-**AM Observation**: I may be reinventing the wheel with part of the fractal shoreline project.
+Since I've started looking more seriously for a new job, I decided regretfully not to participate in [NaNoWriMo](http://nanowrimo.org/) this year, but instead to focus on more programming-related activities.
 
-I thought I remembered a method for representing directions by radians off of true, counterclockwise. (ie North = 0, West = &pi; / 2.) But, I'm starting to doubt my own memory.
+But, in honor of NaNoWriMo, I've decided to parallel their structure. I'm going to start [WorldBuilder](https://github.com/jake-bladt/worldbuilder) tomorrow and see just how far I can get on a web app in a single month. As much as possible, all of my coding in November will be in support of this project.
 
-Developers who want to work with FOSS tools on a Windows machine are losing a great resource when (Nitrous.io closes at the end of November)[https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th].
+It's an ambitious project for sure. At first blush, I'm going to have to pick up enough D3.js and TopoJSON to show a spinning globe plus refresh a metric boatload of math I haven't used since college *and* learn enough cartography to make sense of the jargon used in the documentation. Node is involved too.
+
+Still, I do like a challenge.
+
+I spent some time on the fractal shoreline project today because it's integral to WorldBuilder, but most of my work went into gathering and reviewing source material for the big project. These links were open when I called it a night:
 
 - [Making Maps Using D3 and TopoJSON](https://bost.ocks.org/mike/map/)
 - [Open Source Geo](http://www.osgeo.org/)
@@ -16,6 +20,8 @@ Developers who want to work with FOSS tools on a Windows machine are losing a gr
 - [SVG Basic Shapes and D3.js](https://www.dashingd3js.com/svg-basic-shapes-and-d3js)
 - [adding math symbols in github flavoured markdown](https://github.com/aimacode/aima-pseudocode/issues/14)
 - [Install Linux on an HTC One](https://www.linux.com/answers/how-can-i-install-linux-my-htc-one)
+
+**End Note:** Developers who want to work with FOSS tools on a Windows machine are losing a great resource when (Nitrous.io closes at the end of November)[https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th].
 
 ## 28-October-2016
 
