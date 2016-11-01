@@ -8,6 +8,8 @@ I thought I remembered a method for representing directions by radians off of tr
 
 Developers who want to work with FOSS tools on a Windows machine are losing a great resource when (Nitrous.io closes at the end of November)[https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th].
 
+- [Making Maps Using D3 and TopoJSON](https://bost.ocks.org/mike/map/)
+- [Open Source Geo](http://www.osgeo.org/)
 - [Making a Choropleth Map Directive Using D3.js and Angular.js](http://blog.workshape.io/making-a-spherical-globe-using-d3js/)
 - [Training from the Harvard Center for Geographic Analysis](http://gis.harvard.edu/training)
 - [Harvard CGA YouTube Channel](https://www.youtube.com/user/HarvardCGA/videos)
