@@ -1,0 +1,17 @@
+While I've conducted close to 2,000 technical interviews in my career (for sufficiently large values of "close",) I've never had the leeway to dictate structure and timing enough to perform what I consider the ultimate tech interview. In my imagination, it goes like this:
+
+At the end of the fit interview, tell the candidate: rather than ask you a bunch of preplanned questions or ask you to go write us a specific program, we'd like you to do the following:
+
+Over the course of up to seven days, program something - or several somethings. It should use one or more of the following languages: a, b, c. Commit your code to public repositories on github. When you're done, contact us to schedule an interview. We'll ask you questions about your code and conduct a code review.
+
+The programs you work on don't have to be new. You can spend all the time you have adding features to an old project or just making one more presentable. In the review, we'll ask which parts of the code are yours.
+
+After the code review, our team will fill out a questionnaire that includes numeric grades for each of several categories. Those grades are weighted by importance to us as a company. The total grade will be half of our hiring decision. The other half will be based on today's interview.
+
+Here are the categories we'll be grading on and their weights:
+
+- Volume of code: 5%
+- Code quality: 50%
+etc.
+
+(Inside the Visual Studio)
