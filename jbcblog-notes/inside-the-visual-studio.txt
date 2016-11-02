@@ -10,8 +10,12 @@ After the code review, our team will fill out a questionnaire that includes nume
 
 Here are the categories we'll be grading on and their weights:
 
-- Volume of code: 5%
+- Volume of code: 0%
 - Code quality: 50%
 etc.
+
+Why do we mention volume of code
+
+If you want, we'll provide you with your score and a copy of the questionnaire at the end of the process.
 
 (Inside the Visual Studio)
