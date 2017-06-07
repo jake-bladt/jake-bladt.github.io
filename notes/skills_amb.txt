@@ -1,2 +1,19 @@
-Docker
+Docker, docker-compose
 Terraform
+Bash Scripting
+Python
+JavaScript, NodeJS
+Amazon Web Services
+JMeter
+New Relic
+CircleCI
+BuddyBuild
+BrowserStack, Selenium, Mocha, Chai
+
+Daily Deploys
+PR Instances and Build Server
+Github, Slack & JIRA integration
+AWS Automation (EC2, ECS, RDS, Elastic Beanstalk, S3, ElastiCache, Route53, CodePipeline, CloudWatch, IAM, SQS, SNS)
+Lambda Functions & API Gateway (with Chalice)
+
+Add Redis
