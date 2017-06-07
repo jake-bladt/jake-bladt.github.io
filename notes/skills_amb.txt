@@ -1,3 +1,9 @@
+2016-Present
+
+Ambulnz, Senior DevOps Engineer
+
+Jake is currently the senior devops engineer at Ambulnz, a medical transport company in New York and Los Angeles. 
+
 Docker, docker-compose
 Terraform
 Bash Scripting
