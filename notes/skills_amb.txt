@@ -2,7 +2,10 @@
 
 Ambulnz, Senior DevOps Engineer
 
-Jake is currently the senior devops engineer at Ambulnz, a medical transport company in New York and Los Angeles. 
+Jake is currently the senior devops engineer at Ambulnz, a medical transport company in New York and Los Angeles and is responsible for automation, deployment, testing, and code quality initiatives. Highlights:
+
+* Daily Deploy: Through integration with JIRA, Github, and AWS Elastic Beanstalk, automated the deployment process to the point where regression testing and deployments can occur daily instead of every 4-8 weeks.
+*  PR Instances: Created a custom webhook for pull request changes in Github  
 
 Docker, docker-compose
 Terraform
