@@ -5,24 +5,7 @@ Ambulnz, Senior DevOps Engineer
 Jake is currently the senior devops engineer at Ambulnz, a medical transport company in New York and Los Angeles and is responsible for automation, deployment, testing, and code quality initiatives. Highlights:
 
 * Daily Deploy: Through integration with JIRA, Github, and AWS Elastic Beanstalk, automated the deployment process to the point where regression testing and deployments can occur daily instead of every 4-8 weeks.
-*  PR Instances: Created a custom webhook for pull request changes in Github that launches a full, isolated containerized version of our node-based web services along with supporting services. Used NodeJS, Python, bash scripts, docker, docker-compose, terraform, and AWS automation.  
+* PR Instances: Created a custom webhook for pull request changes in Github that launches a full, isolated containerized version of our node-based web services along with supporting services. Used NodeJS, Python, shell scripts, docker, docker-compose, terraform, and AWS automation.
+* ChatOps: Implemented chat-based integration with build, deployment, testing, incident reporting, and project management using AWS Lambda functions, Python, NodeJS, and Slack integration.
 
-Docker, docker-compose
-Terraform
-Bash Scripting
-Python
-JavaScript, NodeJS
-Amazon Web Services
-JMeter
-New Relic
-CircleCI
-BuddyBuild
-BrowserStack, Selenium, Mocha, Chai
-
-Daily Deploys
-PR Instances and Build Server
-Github, Slack, PagerDuty & JIRA integration
-AWS Automation (EC2, ECS, RDS, Elastic Beanstalk, S3, ElastiCache, Route53, CodePipeline, CloudWatch, IAM, SQS, SNS)
-Lambda Functions & API Gateway (with Chalice)
-
-Add Redis
+Technologies: Docker, docker-compose, terraform, shell scripting, Python, JavaScript, NodeJS, Amazon Web Services (EC2, ECS, RDS, Elastic Beanstalk, S3, ElastiCache, Route53, CodePipeline, CloudWatch, IAM, SQS, SNS), JMeter, New Relic, CircleCI, BuddyBuild, BrowserStack, Selenium, Mocha, Chai, MySQL, Redis
