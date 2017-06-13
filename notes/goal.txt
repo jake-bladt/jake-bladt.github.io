@@ -8,4 +8,6 @@ When you write software that's meant to improve the human condition, the primary
 
 If you can't outrun your cost through profitability, it changes your whole outlook on building software. Commercial licenses, vendor lock-in, and forced obsolescence become deal-killers. You start looking to FOSS software running on commodity hardware.
 
-In fairness to Microsoft, their embrace of FOSS in recent years has opened up a world of possibilities for changing the world with software running on the Windows platform. 
+In fairness to Microsoft, their embrace of FOSS in recent years has opened up a world of possibilities for changing the world with software running on the Windows platform. Back in the early aughts, Redmond's embrace of FOSS was much more tepid than it is now. I decided that, if I were going to build the systems I really wanted to, I would need to step out of the Microsoft creche and relearn how to get from an idea to a production system using only FOSS tools.
+
+
