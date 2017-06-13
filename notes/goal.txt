@@ -24,8 +24,8 @@ When a chance to take a devops role appeared, I jumped on it. The first reason w
 
 DRAFT 2
 
-I spent most of my first fifteen years as a developer writing systems to help make rich people richer - trading systems, portfolio management applications, and the like - tools that big banks need to move money efficiently and retain customers. The software that I wrote solved interesting problems and changed the world in ways far larger than I could do by hand.
+I spent most of my first fifteen years of my professional life writing systems to help make rich people richer - trading systems, portfolio management applications, and the like - tools that big banks need to move money efficiently and retain customers. The software that I wrote solved interesting problems and changed the world in ways far larger than I could do by hand.
 
 Since then, my career decisions have focused on building up my skillset to the point where I can build software that addresses real, human problems like access to clean, potable water. That's meant focusing more on open license tools running on commodity hardware and filling the gaps where my knowledge of the full software development lifecycle have been the weakest.
 
-To that end, I've been a developer, architect, project manager, and most recently devops engineer. 
+To that end, I've been a developer, architect, project manager, and most recently devops engineer. Each role gave me fresh insight into another part of getting software from concept to completion.
