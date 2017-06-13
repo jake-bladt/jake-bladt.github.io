@@ -6,4 +6,6 @@ When you write software that isn't primarily designed for making money, you have
 
 When you write software that's meant to improve the human condition, the primary question is: How can I keep this running for as little money as possible for as long as possible? How can I solve more problems on less hardware? 
 
-If you can't outrun your cost through profitability, it changes your whole outlook on building software. Commercial licenses and forced obsolescence become deal-killers. 
+If you can't outrun your cost through profitability, it changes your whole outlook on building software. Commercial licenses, vendor lock-in, and forced obsolescence become deal-killers. You start looking to FOSS software running on commodity hardware.
+
+In fairness to Microsoft, their embrace of FOSS in recent years has opened up a world of possibilities for changing the world with software running on the Windows platform. 
