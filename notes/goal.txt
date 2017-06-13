@@ -20,4 +20,9 @@ Design may be a lost cause, but I'd already started to dip my toe into the water
 
 When a chance to take a devops role appeared, I jumped on it. The first reason was that it was a chance to fill in the biggest gap in my knowledge of the SDLC. The second was that I would only be working in places that believed in devops.
 
+===
+
+DRAFT 2
+
+Most of my career decisions have been based on 
 
