@@ -1,1 +1,3 @@
-Ultimately, what I want to do is build software that solves real problems - not "how do I connect restaurants with take-out customers" problems - more like "how do we get clean, potable water to people who don't have it" and "how do we "
+Ultimately, what I want to do is build software that solves real problems - not "how do I connect restaurants with take-out customers" problems - more like "how do we get clean, potable water to people who don't have it?" and "how do we use the Internet to make education available to people who don't have electricity?"
+
+Ten years ago, I was a .net developer with a little bit of JavaScript, a little bit of Python, and a big pile of knowledge relating to obsolete, proprietary systems. 
