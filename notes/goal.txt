@@ -29,3 +29,5 @@ I spent most of my first fifteen years of my professional life writing systems t
 Since then, my career decisions have focused on building up my skillset to the point where I can build software that addresses real, human problems like access to clean, potable water. That's meant focusing more on open license tools running on commodity hardware and filling the gaps where my knowledge of the full software development lifecycle have been the weakest.
 
 To that end, I've been a developer, architect, project manager, and most recently devops engineer. Each role gave me fresh insight into another part of getting software from concept to completion.
+
+Given my druthers, I'd be building a system  
