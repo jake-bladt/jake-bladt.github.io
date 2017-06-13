@@ -5,3 +5,5 @@ Ten years ago, I was a .net developer with a little bit of JavaScript, a little 
 When you write software that isn't primarily designed for making money, you have to ask different questions than when you write propietary systems for your employer. There's a virtuous cycle to writing for-profit software: you pay to run it. It brings in money to keep it running. If you do it well and you're lucky, it brings in a surplus - enough to give you time to build bigger and better systems. Your primary design question is, "How do I write this to cost less than it brings in?"
 
 When you write software that's meant to improve the human condition, the primary question is: How can I keep this running for as little money as possible for as long as possible? How can I solve more problems on less hardware? 
+
+If you can't outrun your cost through profitability, it changes your whole outlook on building software. Commercial licenses and forced obsolescence become deal-killers. 
