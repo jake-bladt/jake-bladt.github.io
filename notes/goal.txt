@@ -24,5 +24,9 @@ When a chance to take a devops role appeared, I jumped on it. The first reason w
 
 DRAFT 2
 
-Most of my career decisions have been based on 
+I spent most of my first fifteen years as a developer writing systems to help make rich people richer - trading systems, portfolio management applications, and the like - tools that big banks need to move money efficiently and retain customers.
 
+Since then, my career decisions have revolved around acquiring the skills I need to write software that applies the skills I learned on Wall Street to improving the human condition. 
+
+
+Most of my career decisions have been based on building up the skills needed to solve big real-world problems using technology.  
