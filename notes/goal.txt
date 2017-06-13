@@ -2,4 +2,4 @@ Ultimately, what I want to do is build software that solves real problems - not 
 
 Ten years ago, I was a .net developer with a little bit of JavaScript, a little bit of Python, and a big pile of knowledge relating to obsolete, proprietary systems. Those skills were good enough to keep me working indefinitely, but they weren't the skills I would need to build the kind of software I wanted to write.
 
-
+When you write software that isn't primarily designed for making money, you have to ask different questions than when you write propietary systems for your employer. There's a virtuous cycle to writing for-profit software: you pay to run it. It brings in money to keep it running and, if you do it well and you're lucky, 
