@@ -16,4 +16,8 @@ In 2010, I got lucky. I was contracted for a job in C#, but the managers decided
 
 As my confidence in FOSS tools grew, I started to build small systems using them, which helped me figure out what I still needed to know in order to build the software I imagined. I was pretty strong on programming languages, databases, messaging, architecture, but poor in design and deployment.
 
+Design may be a lost cause, but I'd already started to dip my toe into the waters of deployment. I'd spent a couple of years writing software for the cloud and being the "de facto deployment guy" for my teams.
+
+When a chance to take a devops role appeared, I jumped on it. The first reason was that it was a chance to fill in the biggest gap in my knowledge of the SDLC. The second was that I would only be working in places that believed in devops.
+
 
